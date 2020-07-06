@@ -1,0 +1,23 @@
+-- COMPSYS 305 Miniproject
+-- 2020 FPGPals
+-- Modified by Cecil Symes, csym531
+
+-- Handles the current gamestate
+
+library ieee;
+use ieee.std_logic_1164.all;
+use iee.numeric_std.all;
+
+entity gamestate is
+	port(
+		clk : in std_logic;
+		left_click, right_click : in std_logic;
+		push_button1, push_button2, push_button3 : in std_logic;
+		game_state : out std_logic_vector(3 downto 0)
+	);
+end entity gamestate;
+
+architecture behaviour of gamestate is
+begin
+
+end architecture behaviour;
