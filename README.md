@@ -5,7 +5,7 @@
 
 ## Video Explanation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=2jGBzZETQRw " target="_blank"><img src="http://img.youtube.com/vi/2jGBzZETQRw /0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2jGBzZETQRw" target="_blank"><img src="http://img.youtube.com/vi/2jGBzZETQRw/0.jpg" 
 alt="Video Thumbnail" width="320" height="240" border="10" /></a>
 
 Click the video thumbnail to watch our brief summary!
